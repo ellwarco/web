@@ -1,0 +1,25 @@
+{
+  "short_name": "sergey",
+  "name": "Sergey Shmyrev — Web Designer",
+  "icons": [
+    {
+      "src": "img/sh-launcher-icon-1x.jpg",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/sh-launcher-icon-2x.jpg",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/sh-launcher-icon-4x.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#23507a",
+  "display": "standalone",
+  "theme_color": "#23507a"
+}

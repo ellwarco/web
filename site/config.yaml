@@ -1,0 +1,24 @@
+
+
+baseURL: "https://shmyrev.com"
+title: "Sergey Shmyrev — Personal Web"
+footnoteReturnLinkContents: "↩"
+permalinks:
+  articles: /article/:slug/
+  article-resources: /article/:slug/resources/
+params:
+  Description: "Hey there, I'm Sergey, a designer/developer that enjoys testing everything."
+  AuthorName: "Sergey Shmyrev"
+  GitHubUser: "ellwarco"
+  images: ["/img/sergey-signature-blue.jpg"]
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+blackfriday:
+ hrefTargetBlank: true
+
+social: 
+  facebook_app_id: ""
+  twitter: "@ellwarco"
