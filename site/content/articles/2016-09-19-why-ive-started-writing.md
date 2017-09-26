@@ -1,6 +1,6 @@
 ---
 author: Sergey Shmyrev
-comments: false
+comments: true
 description: >-
   I spend most of my days trying to figure out design/development and I want to
   share that with everyone.
