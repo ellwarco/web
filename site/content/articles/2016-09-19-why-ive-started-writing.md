@@ -1,15 +1,17 @@
 ---
-
-title:  "Why I've started writing"
 author: Sergey Shmyrev
-description: I spend most of my days trying to figure out design/development and I want to share that with everyone.
-excerpt: I spend most of my days trying to figure out design & development; I kinda want to share that with everyone.
-time: 2 minutes
 comments: false
-
-slug: "why-ive-started-writing"
-date: "2016-09-19"
-
+description: >-
+  I spend most of my days trying to figure out design/development and I want to
+  share that with everyone.
+excerpt: >-
+  I spend most of my days trying to figure out design & development; I kinda
+  want to share that with everyone.
+slug: why-ive-started-writing
+time: 2 minutes
+title: Why I've started writing
+date: '2016-09-19'
+image: /img/appleandroid.jpg
 ---
 
 Why not? I spend most of my days trying to figure out design; whether I'm working with a junior designer trying to teach him/her a certain web design concept or I'm figuring out a stubborn front-end development bug, documentation on what I come across on a daily basis could be of good use to other designers in my field of work.
