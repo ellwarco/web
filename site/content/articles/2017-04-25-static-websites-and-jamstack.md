@@ -157,3 +157,4 @@ I've put together the entire list of articles, tools, videos, tutorials & other 
 
 [View Static Websites &amp; the JAMstack Resources &raquo;](/article/static-websites-and-jamstack/resources)
 
+
