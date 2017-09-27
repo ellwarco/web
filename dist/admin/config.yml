@@ -1,15 +1,15 @@
 backend:
   name: github
-  repo: ellwarco/nweb # Path to your Github repository
+  repo: ellwarco/web # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+  - name: "article" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Article" # Used in the UI, ie.: "New Post"
+    folder: "site/content/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -19,6 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
+    folder: "site/content/pages" # The path to the folder where the documents 
     files:
       - file: "site/content/products.md"
         label: "Products Page"

@@ -23,8 +23,8 @@
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article/why-ive-started-writing/</loc>
-    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+    <loc>https://shmyrev.com/article/conversion-rate-optimization-case-study/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +45,12 @@
   <url>
     <loc>https://shmyrev.com/articles/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shmyrev.com/tags/casestudy/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,6 +80,12 @@
   <url>
     <loc>https://shmyrev.com/tags/exitintent/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shmyrev.com/tags/gdd/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
