@@ -2,7 +2,7 @@
 categories:
   - Development
 comments: true
-date: '2017-04-25'
+date: 09/26/2017
 description: >-
   Let's rethink the way we build websites with a more fast, secure, and flexible
   approach.
@@ -156,3 +156,5 @@ Congrats! You’re well on your way to adopting the JAMstack and reaping the ben
 I've put together the entire list of articles, tools, videos, tutorials & other resources I came across when writing this article. Enjoy!
 
 [View Static Websites &amp; the JAMstack Resources &raquo;](/article/static-websites-and-jamstack/resources)
+
+
