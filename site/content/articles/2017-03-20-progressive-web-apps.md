@@ -91,7 +91,7 @@ Your website has to meet a baseline of standards in order to benefit from the PW
 ### Site is served over HTTPS
 This is the secure version of your website. Sending information over HTTPS ensure any data that’s being passed through your website gets encrypted. Yes, even if your website is a simple content-based website with no complicated features, you want and need HTTPS (lots of bad hombres out there). 
 
-You can test for this with Lighthouse or just look at the address bar of your website and if the URL starts with https:// and not http://, you’re good to go. I use [CloudFlare CDN](https://www.cloudflare.com/cdn/), which makes it relatively simple to enable HTTPS.
+You can test for this with Lighthouse or just look at the address bar of your website and if the URL starts with https:// and not https://, you’re good to go. I use [CloudFlare CDN](https://www.cloudflare.com/cdn/), which makes it relatively simple to enable HTTPS.
  
 ### Pages are responsive on tablets & mobile devices
 By now, everyone should be building on a responsive foundation. Do I even need to elaborate here? Thinking no, but [let me know](https://www.twitter.com/ellwarco) otherwise.

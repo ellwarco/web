@@ -119,7 +119,7 @@ Pretty cool, right? Time to try it for yourself...
 
 <h3>Step 1: Choosing a Lightbox Script</h3>
 
-This could work with any script of choice, but over the years I’ve found [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) to be one of the most well documented, versatile, and lightweight popup scripts around. But whatever you do, don’t build a lightbox script from scratch, even though the concept is relatively simple, there are many intricacies to take into consideration in order to provide a good user experience. 
+This could work with any script of choice, but over the years I’ve found [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) to be one of the most well documented, versatile, and lightweight popup scripts around. But whatever you do, don’t build a lightbox script from scratch, even though the concept is relatively simple, there are many intricacies to take into consideration in order to provide a good user experience. 
 
 <h3>Step 2: Adding the Exit Intent Listener</h3>
 

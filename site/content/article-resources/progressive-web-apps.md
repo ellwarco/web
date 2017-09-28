@@ -25,11 +25,11 @@ layout: default
 <h2>Podcasts</h2>
 
 * <a href="https://javascriptair.com/episodes/2016-05-25/" target="_blank" rel="noopener">Progressive Web Apps - JavaScript Air</a>
-* <a href="http://www.stitcher.com/podcast/pwop-podcasts/net-rocks/e/progressive-web-apps-with-kirupa-chinnathambi-48391544" target="_blank" rel="noopener">Progressive Web Apps with Kirupa Chinnathambi - .NET Rocks!</a>
+* <a href="https://www.stitcher.com/podcast/pwop-podcasts/net-rocks/e/progressive-web-apps-with-kirupa-chinnathambi-48391544" target="_blank" rel="noopener">Progressive Web Apps with Kirupa Chinnathambi - .NET Rocks!</a>
 * <a href="https://huffduffer.com/adactio/327758" target="_blank" rel="noopener">A Chat about Progressive Web Apps - The Web Platform podcast</a>
 
 <h2>Tools</h2>
 
 
 * <a href="https://developers.google.com/web/tools/lighthouse/" target="_blank" rel="noopener">Lighthouse - an automated tool for improving the quality of your web apps</a>
-* <a href="http://www.pwabuilder.com/" target="_blank" rel="noopener">PWA Builder</a>
+* <a href="https://www.pwabuilder.com/" target="_blank" rel="noopener">PWA Builder</a>

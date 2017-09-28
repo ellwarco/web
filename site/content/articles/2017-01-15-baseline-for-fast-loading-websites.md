@@ -30,7 +30,7 @@ Gzip is the wizard behind the curtain that makes the web as a whole much faster 
 
 Technically, you can Gzip any file on your website but due to the time it takes to process, the only files worth gzipping are the big three: HTML, CSS, & JS. Images and videos are already compressed (they better be if you’re producing these assets for the web) and the amount of time it would take Gzip to compress them further would outweigh the amount of load time saved with the smaller file size.
 
-However, Gzip doesn’t get enabled by default on most hosts (you can check to see if your website’s [Gzipped](http://checkgzipcompression.com/)). Setting this up is usually on the server side and depending on your hosting company, you can just reach out to them and ask them to enable it. This can also be done via the .htaccess on Apache with the following code snippet: 
+However, Gzip doesn’t get enabled by default on most hosts (you can check to see if your website’s [Gzipped](https://checkgzipcompression.com/)). Setting this up is usually on the server side and depending on your hosting company, you can just reach out to them and ask them to enable it. This can also be done via the .htaccess on Apache with the following code snippet: 
 
 <pre class="language-markup"><code>SetOutputFilter DEFLATE
 AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml text/javascript application/x-javascript application/x-httpd-php

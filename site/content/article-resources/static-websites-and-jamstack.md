@@ -8,7 +8,7 @@ layout: default
 
 <h2>Articles &amp; Tutorials</h2>
 
-* [StaticGen.com](http://www.staticgen.com/) - Top Open-Source Static Site Generators
+* [StaticGen.com](https://www.staticgen.com/) - Top Open-Source Static Site Generators
 * [JAMstack.org](https://jamstack.org/) - Best Practices, Examples, & Resources
 * [What is a Headless CMS?](https://css-tricks.com/what-is-a-headless-cms/) - A straight forward explanation on the subject
 * [Staticsitegenerators.net](https://staticsitegenerators.net/) - A list of all of the current static site generators in the market
