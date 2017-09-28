@@ -3,179 +3,179 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shmyrev.com/article/static-websites-and-jamstack/</loc>
+    <loc>https://www.shmyrev.com/article/static-websites-and-jamstack/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article/progressive-web-apps/</loc>
+    <loc>https://www.shmyrev.com/article/progressive-web-apps/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article/exit-intent-popups/</loc>
+    <loc>https://www.shmyrev.com/article/exit-intent-popups/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article/baseline-for-fast-loading-websites/</loc>
+    <loc>https://www.shmyrev.com/article/baseline-for-fast-loading-websites/</loc>
     <lastmod>2017-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article/conversion-rate-optimization-case-study/</loc>
+    <loc>https://www.shmyrev.com/article/conversion-rate-optimization-case-study/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/about/</loc>
+    <loc>https://www.shmyrev.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/abtest/</loc>
+    <loc>https://www.shmyrev.com/tags/abtest/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/article-resources/</loc>
+    <loc>https://www.shmyrev.com/article-resources/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/articles/</loc>
+    <loc>https://www.shmyrev.com/articles/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/casestudy/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/code/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/cro/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/categories/development/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/exitintent/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/gdd/</loc>
+    <loc>https://www.shmyrev.com/tags/casestudy/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/headlesscms/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <loc>https://www.shmyrev.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/jamstack/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/modals/</loc>
+    <loc>https://www.shmyrev.com/tags/code/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/optimization/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/pages/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/perceivedperformance/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/article/progressive-web-apps/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/pwa/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/serviceworkers/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/article/static-websites-and-jamstack/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/staticsitegenerators/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shmyrev.com/tags/</loc>
+    <loc>https://www.shmyrev.com/tags/cro/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/categories/ux/</loc>
+    <loc>https://www.shmyrev.com/categories/development/</loc>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/exitintent/</loc>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/gdd/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/headlesscms/</loc>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/jamstack/</loc>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/modals/</loc>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/optimization/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/perceivedperformance/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/article/progressive-web-apps/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/pwa/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/webappmanifest/</loc>
+    <loc>https://www.shmyrev.com/</loc>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/serviceworkers/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shmyrev.com/tags/webperf/</loc>
+    <loc>https://www.shmyrev.com/article/static-websites-and-jamstack/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/staticsitegenerators/</loc>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/</loc>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/categories/ux/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/webappmanifest/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shmyrev.com/tags/webperf/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

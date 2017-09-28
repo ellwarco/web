@@ -1,6 +1,6 @@
 {
   "short_name": "sergey",
-  "name": "Sergey Shmyrev — Web Dev",
+  "name": "Sergey Shmyrev — Web Developer",
   "icons": [
     {
       "src": "img/sh-launcher-icon-1x.jpg",
@@ -16,6 +16,21 @@
       "src": "img/sh-launcher-icon-4x.jpg",
       "type": "image/png",
       "sizes": "192x192"
+    },  
+    {  
+      "src": "/img/sh-launcher-icon-256x256.png",  
+      "sizes": "256x256",  
+      "type": "image/png"  
+    },  
+    {  
+      "src": "/img/sh-launcher-icon-384x384.png",  
+      "sizes": "384x384",  
+      "type": "image/png"  
+    },  
+    {  
+      "src": "/img/sh-launcher-icon-512x512.png",  
+      "sizes": "512x512",  
+      "type": "image/png"  
     }
   ],
   "start_url": "/?utm_source=homescreen",
