@@ -6,6 +6,7 @@ date: '2017-10-01'
 description: >-
   Let's rethink the way we build websites with a more fast, secure, and flexible
   approach.
+image: /img/Go_Static.jpg
 images:
   - assets/og-static-jamstack.jpg
 lastmod: 2017-04-25T00:00:00.000Z
@@ -155,6 +156,7 @@ Congrats! You’re well on your way to adopting the JAMstack and reaping the ben
 I've put together the entire list of articles, tools, videos, tutorials & other resources I came across when writing this article. Enjoy!
 
 [View Static Websites &amp; the JAMstack Resources &raquo;](/article/static-websites-and-jamstack/resources)
+
 
 
 
