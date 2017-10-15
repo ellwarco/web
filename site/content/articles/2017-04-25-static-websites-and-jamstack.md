@@ -1,15 +1,22 @@
 ---
-title: "Static Websites + JAMstack = <3"
-description:  Let's rethink the way we build websites with a more fast, secure, and flexible approach.
-tags: [JAMstack, HeadlessCMS, StaticSiteGenerators, WebPerf]
-lastmod: 2017-04-25
-date: "2017-10-25"
-time: 7.5 Minutes
 categories:
-  - "Development"
-slug: "static-websites-and-jamstack"
-images: ["assets/og-static-jamstack.jpg"]
+  - Development
 comments: true
+date: '2017-10-01'
+description: >-
+  Let's rethink the way we build websites with a more fast, secure, and flexible
+  approach.
+images:
+  - assets/og-static-jamstack.jpg
+lastmod: 2017-04-25T00:00:00.000Z
+slug: static-websites-and-jamstack
+tags:
+  - JAMstack
+  - HeadlessCMS
+  - StaticSiteGenerators
+  - WebPerf
+time: 7.5 Minutes
+title: Static Websites + JAMstack = <3
 ---
 
 I'm sure that by now you've heard about how static websites are the best thing since sliced bread. If you're the type to stay on top of the latest, then you've also heard about Smashing Magazine [ditching WordPress and moving to a JAMstack](https://next.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here--meet-the-next-smashing-magazine/) (probably how you ended up here). 
@@ -148,5 +155,6 @@ Congrats! You’re well on your way to adopting the JAMstack and reaping the ben
 I've put together the entire list of articles, tools, videos, tutorials & other resources I came across when writing this article. Enjoy!
 
 [View Static Websites &amp; the JAMstack Resources &raquo;](/article/static-websites-and-jamstack/resources)
+
 
 
