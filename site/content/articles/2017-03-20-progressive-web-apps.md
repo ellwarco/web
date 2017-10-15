@@ -1,22 +1,27 @@
 ---
-
-title:  "Progressive Web Apps — The Next Step in Responsive Web Design"
 author: Sergey Shmyrev
-description:  PWAs are here to stay, and using them today could improve the engagement, bounce rate, and conversion rates of your website. 
-excerpt: PWAs are here to stay, and using them today could improve the engagement, bounce rate, and conversion rates of your website.
-categories: 
-  - "Development"
-  - "UX"
-tags: [PWA, WebPerf, ServiceWorkers, WebAppManifest]
-images: ["assets/og-progressive-web-apps.jpg"]
-time: 8 Minutes
+categories:
+  - Development
+  - UX
 comments: false
-
-slug: "progressive-web-apps"
-date: "2017-03-20"
-
-
-
+date: '2017-03-20'
+description: >-
+  PWAs are here to stay, and using them today could improve the engagement,
+  bounce rate, and conversion rates of your website.
+excerpt: >-
+  PWAs are here to stay, and using them today could improve the engagement,
+  bounce rate, and conversion rates of your website.
+image: /img/progressive-web-apps.png
+images:
+  - assets/og-progressive-web-apps.jpg
+slug: progressive-web-apps
+tags:
+  - PWA
+  - WebPerf
+  - ServiceWorkers
+  - WebAppManifest
+time: 8 Minutes
+title: Progressive Web Apps — The Next Step in Responsive Web Design
 ---
 
 Late last week, Smashing Magazine, one of the largest and most influential online publications for web design, posted on Facebook that their website was “now running as a Progressive Web App.” 
@@ -349,3 +354,4 @@ I believe these are the next steps in our journey for a unified and accessible w
 I put together a separate page for articles, videos, podcasts and tutorials that I came across. I hope this helps you out. Enjoy!
 
 [View PWA Resources &raquo;](/article/progressive-web-apps/resources)
+
