@@ -7,7 +7,7 @@ description: >-
   service worker is basically a script acting like a proxy between the browser
   and the network. You will find a simple example how to install a service
   worker for your Hugo satic site to make it blazing fast.
-image: null
+image: /img/service-workers-hugo.jpg
 ---
 What is this all about?
 
@@ -342,6 +342,7 @@ Debugging a Service Worker in Google Chrome you can simply open the Console and 
 Read more about[Debugging Service Workers](https://developers.google.com/web/fundamentals/getting-started/codelabs/debugging-service-workers/)at Google Developers.
 
 If your preferred Browser is Firefox read more about[Debugging Service Workers and Push with Firefox Devtools](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)at hacks.mozilla.org.
+
 
 
 
