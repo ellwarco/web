@@ -24,6 +24,7 @@ image: /img/4-reasons-people-like-progressive-web-apps.png
 The first reason, and probably the most important, is that modern society doesn’t have a lot of time to hang around. We all seem a little more impatient than we used to be! It’s probably because we’re so used to being able to access whatever we want, whenever we want, be it entertainment, food or leisure activities (see: Tinder). That’s why we’ve seen such an explosion in smartphone use, and that’s no bad thing.
 {{< load-photoswipe >}}
 {{< gallery dir="/img/pwa/" />}}
+{{< svg "static/svgs/sh-logo.svg" >}}
 It’s also why native apps proved so popular. They let users get the best out of their smartphone, in a way that’s smart, responsive and lightning fast. In fact, the only thing that holds native apps back is their occasional need to sync with a server! Mobile web browsing, by comparison, is even slower. Keeping customers trying to access your site waiting is throwing conversions down the drain… And that’s where PWAs come in.
 
 PWAs are designed to provide the same responsiveness as a native app. They aren’t just fast- they load instantly, even if you have a patchy connection (more on that later). This means that fewer and fewer potential customers are going to give up on accessing your site, which in turn, means a far smoother ride from potential customer to conversion.
