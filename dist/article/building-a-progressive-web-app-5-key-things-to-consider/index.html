@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Building a progressive web app: 5 key things to consider  &middot; Sergey Shmyrev — Personal Web site</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="description" content="Welcome to the exciting world of Progressive Web Apps. You&#39;re likely reading this because you&#39;ve been converted to the PWA cause: a best-of-both-worlds fusion of website reliability and app functionality. Finally, we have a mobile friendly way to combine the speed and directness of websites (no downloads required) with the functionality of apps, like offline browsing, home screen installation and push notifications." />
+
+<meta name="keywords" content="">
+
+
+<meta property="og:title" content="Building a progressive web app: 5 key things to consider  &middot; Sergey Shmyrev — Personal Web site ">
+<meta property="og:site_name" content="Sergey Shmyrev — Personal Web site"/>
+<meta property="og:url" content="/article/building-a-progressive-web-app-5-key-things-to-consider/" />
+<meta property="og:locale" content="">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Welcome to the exciting world of Progressive Web Apps. You&#39;re likely reading this because you&#39;ve been converted to the PWA cause: a best-of-both-worlds fusion of website reliability and app functionality. Finally, we have a mobile friendly way to combine the speed and directness of websites (no downloads required) with the functionality of apps, like offline browsing, home screen installation and push notifications."/>
+<meta property="og:article:published_time" content="2017-10-16T08:28:34Z" />
+<meta property="og:article:modified_time" content="2017-10-16T08:28:34Z" />
+
+  
+
+  
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@" />
+<meta name="twitter:title" content="Building a progressive web app: 5 key things to consider" />
+<meta name="twitter:description" content="Welcome to the exciting world of Progressive Web Apps. You&#39;re likely reading this because you&#39;ve been converted to the PWA cause: a best-of-both-worlds fusion of website reliability and app functionality. Finally, we have a mobile friendly way to combine the speed and directness of websites (no downloads required) with the functionality of apps, like offline browsing, home screen installation and push notifications." />
+<meta name="twitter:url" content="/article/building-a-progressive-web-app-5-key-things-to-consider/" />
+<meta name="twitter:domain" content="/">
+  
+
+  
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Building a progressive web app: 5 key things to consider",
+    "author": {
+      "@type": "Person",
+      "name": "http://profiles.google.com/+?rel=author"
+    },
+    "datePublished": "2017-10-16",
+    "description": "Welcome to the exciting world of Progressive Web Apps. You&#39;re likely reading this because you&#39;ve been converted to the PWA cause: a best-of-both-worlds fusion of website reliability and app functionality. Finally, we have a mobile friendly way to combine the speed and directness of websites (no downloads required) with the functionality of apps, like offline browsing, home screen installation and push notifications.",
+    "wordCount": 1159
+  }
+</script>
+  
+
+
+
+<link rel="canonical" href="/article/building-a-progressive-web-app-5-key-things-to-consider/" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/touch-icon-144-precomposed.png">
+<link rel="icon" href="/favicon.png">
+<meta name="generator" content="Hugo 0.27.1" />
+
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+    <link rel="stylesheet" href="/css/bootswatch/default/bootstrap.min.css">
+
+
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+
+  <link rel="stylesheet" href="/css/highlight/default.css">
+
+
+</head>
+<body data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">
+    <header id="main-header">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+          
+          <a class="navbar-brand-img" href="/">
+            <img alt="" src="">
+            
+          </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            
+            
+            
+              
+          </ul>
+        </div>
+        
+      </div>
+    </nav>
+  </header>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <header class="container hat">
+  <h1>Building a progressive web app: 5 key things to consider
+</h1>
+
+</header>
+
+      <div class="content">
+  <p>With brands from Twitter to the Washington Post and Lancôme (more on that later) embracing the possibilities of PWAs, the question is no longer &ldquo;Should you have a PWA?&rdquo; but &ldquo;What are the implications for my business?&rdquo;</p>
+
+<p>So, before deciding to build a PWA, let&rsquo;s take a look at some key points you need to consider, both from a design and resources point of view and from a strategic marketing point of view.</p>
+
+<p><strong>1. Do you have the expertise to build your PWA in-house?</strong></p>
+
+<p>There&rsquo;s no shame if you don&rsquo;t. PWAs are a very new technology, so there&rsquo;s very little precedent for how to build them. Most web developers are exactly that, technical experts with a deep experience of building websites. They&rsquo;ll have to learn new skills and protocols to create a PWA from scratch or convert your existing site into one. A PWA is as much app as it is website. For example, most websites consist of various separate HTML pages strung together, with each one loading afresh as users link-hop through your site.</p>
+
+<p>A PWA, on the other hand, is built on the solid foundation of a Single Page Application (SPA). This is a single HTML page which can be viewed in different ways, resembling the user experience of travelling through different areas of a site whilst never leaving that single page. This goes a long way to making PWA&rsquo;s so fast and reliable.</p>
+
+<p>The first time a user visit&rsquo;s your PWA their browser automatically &ldquo;installs&rdquo; the web app; downloading the complete shell of the app which is then cached to avoid subsequent time lost re-downloading site components.</p>
+
+<p>You&rsquo;ll also need a team experienced with deploying Service Workers. This is an area that can cause headaches even for the <a href="https://www.scirra.com/blog/ashley/27/service-workers-are-a-pain-in-the-ass" target="_blank">most experienced</a> web tech bods.</p>
+
+<p>Your dev team needs to be prepared psychologically to be building an app rather than a website as it&rsquo;s conventionally thought of; this means familiarising themselves with new processes and methodologies.</p>
+
+<p>You&rsquo;re going to need a front-end engineer to help build your PWA. Their <a href="https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/" target="_blank">experience</a> will go beyond JQuery and HTML, straddling concepts as varied as JavaScript and Front End Frameworks to handling CSS Preprocessors, &ldquo;RESTful programming&rdquo; and how to design responsive and mobile-friendly sites. Often in ecommerce operations front-end engineers are a restricted resource, but you&rsquo;ll need to deploy them to the team building your PWA.</p>
+
+<p>If your developers are up for the challenge of building a PWA, and that&rsquo;s the most time and cost effective route for your company, they&rsquo;ll want to brush up on the coding necessary to pull this off. Google&rsquo;s developer site has lots of in-depth <a href="https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/" target="_blank">code labs</a> and information resources your developers will want to check out. Again, there&rsquo;s no shame in outsourcing to a reliable PWA developer.</p>
+
+<p><strong>2. Asking, <em>what&rsquo;s the cache?</em></strong></p>
+
+<p>PWA&rsquo;s present some technical challenges that aren&rsquo;t so much thrown up in traditional web design. Caching is a big one. In many ways it&rsquo;s the open secret at the heart of PWA architecture. By caching the data needed to deliver your web app experience PWAs save on the reload time that can hinder websites. This increases performance. But caching creates a dichotomy between delivering performance and providing a fresh web experience. So you&rsquo;ll need to make sure you dedicate the time to fine tuning your cache architecture before you have the solid foundations for building your PWA.</p>
+
+<p><strong>3. Consider the mobile experience</strong></p>
+
+<p>PWAs put a premium on mobile-friendliness. Let&rsquo;s rephrase that; contemporary ecommerce puts a premium on mobile-friendliness, with over half of internet traffic coming from mobile devices. A <a href="https://www.deloitte.co.uk/mobileuk/#usage-frequency-of-financial-and-shopping-related-services-apps-2" target="_blank">study by Deloitte</a> showed that 32 percent of UK smartphone users browsed a shopping website or app at least once a month and 18 percent at least once a week. Getting your PWA up to speed (literally) is vital if you are not to deter mobile users (it&rsquo;s a Progressive Web _App<em>so you&rsquo;re entering their turf</em>). _Even the mighty Amazon.com only has a <a href="https://developers.google.com/speed/pagespeed/insights/?url=Amazon.com" target="_blank">49 percent mobile performance</a> rate (55 percent for its UK site) according to Google&rsquo;s PageSpeed Tools. By contrast, the <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.flipkart.com%2F" target="_blank">FlipKart&rsquo;s</a> PWA has a 71 percent performance. The Washington Post cut its page load times from 2.9 seconds to 0.9 seconds with a PWA.</p>
+
+<p><img src="/img/The-Washington-Post-PWA-e1506274180773.jpg" alt="undefined" /></p>
+
+<p>Before building your PWA you&rsquo;ll want to test and optimise your site&rsquo;s current mobile performance and set targets for seeing improvements in speed with your PWA.</p>
+
+<p><strong>4. Have you developed a vision for your PWA?</strong></p>
+
+<p>Before you build your PWA you need to consider exactly what you hope to get out of it. The best apps understand precisely which functionality of a website needs to be condensed into an app. If you run a restaurant, your app would need to prioritise food ordering. If you run a news site, you want to focus on delivering content that can be read offline. Anyone who uses Twitter via a mobile app will appreciate that it has limited functionality compared to the website version. An effective PWA should be a distillation of your website and be so handy that users will want to add it to their home page. Before you begin building your PWA, have a detailed discussion with your developers where you discuss what you want to get out of the build. You&rsquo;re about to invest time, effort and resources into this project, so you need to make sure your developers share your vision and understand what it is they are expected to deliver.</p>
+
+<p><img src="/img/Progressive-Web-App-e1506274320403.jpg" alt="undefined" /></p>
+
+<p><strong>5. Do you have a contingency plan?</strong></p>
+
+<p>PWA&rsquo;s are a brave new world where web meets app. You need to understand what the landscape looks like before you start your PWA build. For example, Google are spearheading this exciting new movement, and Microsoft have <a href="https://www.windowscentral.com/faq-progressive-web-apps-windows-10" target="_blank">enthusiastically rallied</a> to the cause. Apple, however, are <a href="https://dockyard.com/blog/2017/07/13/safari-ios-and-progressive-web-apps" target="_blank">dragging their feet</a>. Certain functionality like push notifications and bookmarking aren&rsquo;t supported on iOS. It seems likely they will support PWAs in the future, but it&rsquo;s worth thinking about what impact, if any, this will have on your PWA.</p>
+
+<p>This fact hasn&rsquo;t stopped Lancôme who <a href="https://developers.google.com/web/showcase/2017/lancome" target="_blank">pushed ahead</a> with a PWA. Despite the limitations of running a PWA on an iPhone or iPad, they saw an overall increase in conversions of 17 percent and even delivered a 53 percent boost in their iOS sessions; showing that Apple users were undeterred (and giving plenty of reasons for Apple to get with the program).</p>
+
+<p>When all&rsquo;s said and done, there is plenty to think about before building your PWA. When trying something new you want to leave as little to surprise you as possible. Make sure you&rsquo;ve read widely on the topic and have a plan for building your PWA. Make sure that you can provide the resources needed to maintain it and make those inevitable adjustments that come when new online technology meets the real world (and real customers). Even if going it alone with your PWA build, make links with experts in this area so you have guides as you embrace the possibilities of PWAs.</p>
+
+</div>
+
+
+      
+    </div>
+    
+  </div>
+</div>
+    
+<footer class="footer hidden-print">
+  <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+           <div class="pull-left">
+  <a class="toplink" href="javascript:" id="return-to-top"></a>
+</div>
+<div class="pull-right">
+
+</div>
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+              
+    
+<div class="container footline">
+    <small>
+</small>
+</div>
+
+
+    
+<div class="container copyright">
+    <small>
+  Made with ❤️ at Clapiers
+
+  </small>
+</div>
+
+
+
+        </div>
+    </div>
+  </div>
+</footer>
+
+    
+
+<script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="" async="async"></script>
+
+
+
+<script src="//load.sumome.com/" data-sumo-site-id="" async="async"></script>
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<script src="/js/highlight.pack.js"></script>
+<script src="/js/site.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+var ENABLE_POPOVER = "", 
+EXPIRE_COOKIE = "", 
+SHOW_MODAL_TIMEOUT = "", 
+MOUSE_LEAVE = "", 
+MODAL_SIZE = "", 
+POST_URL = "", 
+SIGNUP_HEADER = "",
+HEADER_IMAGE = "",
+IMG_DESCRIPTION = "",
+SIGNUP_TEXT = "",
+INPUT_PLACEHOLDER = "",
+SUBMIT_BUTTON = "",
+SUCCESS_MESSAGE = "",
+ERROR_MESSAGE = "",
+OPTIN = "",
+COOKIE_NAME = "",
+CONTENTLANGUAGE = ""; 
+</script>
+
+
+
+
+
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax//MathJax.js"></script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax//config/TeX-AMS-MML_HTMLorMML.js"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    for(var all in MathJax.Hub.getAllJax()) {
+        all.SourceElement().parentNode.className += ' has-jax';
+
+    }
+});
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+

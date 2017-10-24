@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sergey Shmyrev — Personal Web</title>
+    <link>https://www.shmyrev.com/tags/</link>
+    <description>Recent content in Tags on Sergey Shmyrev — Personal Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.shmyrev.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abtest</title>
+      <link>https://www.shmyrev.com/tags/abtest/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/abtest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casestudy</title>
+      <link>https://www.shmyrev.com/tags/casestudy/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/casestudy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://www.shmyrev.com/tags/code/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cro</title>
+      <link>https://www.shmyrev.com/tags/cro/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/cro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exitintent</title>
+      <link>https://www.shmyrev.com/tags/exitintent/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/exitintent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gdd</title>
+      <link>https://www.shmyrev.com/tags/gdd/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/gdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Headlesscms</title>
+      <link>https://www.shmyrev.com/tags/headlesscms/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/headlesscms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamstack</title>
+      <link>https://www.shmyrev.com/tags/jamstack/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/jamstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modals</title>
+      <link>https://www.shmyrev.com/tags/modals/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/modals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://www.shmyrev.com/tags/optimization/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceivedperformance</title>
+      <link>https://www.shmyrev.com/tags/perceivedperformance/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/perceivedperformance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pwa</title>
+      <link>https://www.shmyrev.com/tags/pwa/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/pwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serviceworkers</title>
+      <link>https://www.shmyrev.com/tags/serviceworkers/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/serviceworkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staticsitegenerators</title>
+      <link>https://www.shmyrev.com/tags/staticsitegenerators/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/staticsitegenerators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webappmanifest</title>
+      <link>https://www.shmyrev.com/tags/webappmanifest/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/webappmanifest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webperf</title>
+      <link>https://www.shmyrev.com/tags/webperf/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/tags/webperf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

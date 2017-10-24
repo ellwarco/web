@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergey Shmyrev — Personal Web</title>
+    <link>/en/</link>
+    <description>Recent content on Sergey Shmyrev — Personal Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤️ at Clapiers</copyright>
+    
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
