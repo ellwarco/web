@@ -22,7 +22,7 @@ image: /img/4-reasons-people-like-progressive-web-apps.png
 ---
 ## People are impatient
 The first reason, and probably the most important, is that modern society doesn’t have a lot of time to hang around. We all seem a little more impatient than we used to be! It’s probably because we’re so used to being able to access whatever we want, whenever we want, be it entertainment, food or leisure activities (see: Tinder). That’s why we’ve seen such an explosion in smartphone use, and that’s no bad thing.
-+++
+
 [twitter]
   card = "player"
   title = "The Bit Title"
@@ -35,7 +35,7 @@ The first reason, and probably the most important, is that modern society doesn�
   image_alt = "This is an amazing Thumbnail"
   player_stream = "https://example.tld/stream.mp4"
   player_stream_content_type = "video/mp4"
-+++
+
 {{< gallery dir="/img/pwa/" />}}
 {{< load-photoswipe >}}
 {{< svg "static/svgs/sh-logo.svg" >}}
