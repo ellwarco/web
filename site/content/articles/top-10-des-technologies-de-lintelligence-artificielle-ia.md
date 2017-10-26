@@ -1,6 +1,6 @@
 ---
 title: The Use of Artificial Intelligence in Marketing
-date: 2017-10-26T23:31:28+02:00
+date: 2017-10-26T21:31:28.000Z
 description: >-
   Have you ever sat down to think about who manages the emails you received that
   are advertising products sold and services offered by a business close to you?
@@ -50,3 +50,4 @@ Chatbots can be used to take orders and general requestsand also optimize produc
 Artificial Intelligence has enabled marketers to implement strategies previously considered tedious or impossible due to complex data.  The opportunity to analyse and personalize the marketing and selling experience is a powerful goal for brands.  Brands must be careful and develop a well thought out AI marketing strategy to ensure the level of consumer interaction doesn’t become too narrow and to aggressive.  Consumers want to get great ideas from marketing but they do want variety and flexibility and importantly to not be annoyed.
 
 
+Source : [](https://marketingideas101.com/idea-center/marketing-strategy/use-artificial-intelligence-marketing/)
