@@ -5,15 +5,84 @@
     <link>https://www.shmyrev.com/articles/</link>
     <description>Recent content in Articles on Sergey Shmyrev — Personal Web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2017 21:31:28 +0000</lastBuildDate>
     
 	<atom:link href="https://www.shmyrev.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Use of Artificial Intelligence in Marketing</title>
+      <link>https://www.shmyrev.com/article/the-use-of-artificial-intelligence-in-marketing/</link>
+      <pubDate>Thu, 26 Oct 2017 21:31:28 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/the-use-of-artificial-intelligence-in-marketing/</guid>
+      <description>In situations where processes are optimized and made faster by technology, not only that humans have more time freed up for critical thinking, data analysis, and long-term planning also it makes businesses achieve better outcomes.
+Terms like Data mining, Data analytics, Predictive Modelling, Big Data, etc. refer to technologies that are evolving rapidly and have become powerful tools in modern marketing and many other business activities.
+Just like in marketing, AIis an increasingly integral part of many industries.</description>
+    </item>
+    
+    <item>
+      <title>Go offline! Service Worker and Hugo</title>
+      <link>https://www.shmyrev.com/article/go-offline-service-worker-and-hugo/</link>
+      <pubDate>Thu, 19 Oct 2017 17:46:34 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/go-offline-service-worker-and-hugo/</guid>
+      <description>What is this all about?
+If you are completely new to Service Workers and wondering what this is all about. Please have a look at the following resources:
+Your First Progressive Web App at Google Developers Service Worker API at MDN Mozilla Developer Network Service Worker Revolution at Ponyfoo Everything you need to know to create offline-first web apps. at Github (pazguille/offlinefirst) After you did all these readings - or at least understood what this is all about.</description>
+    </item>
+    
+    <item>
+      <title>Building a progressive web app: 5 key things to consider</title>
+      <link>https://www.shmyrev.com/article/building-a-progressive-web-app-5-key-things-to-consider/</link>
+      <pubDate>Mon, 16 Oct 2017 08:28:34 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/building-a-progressive-web-app-5-key-things-to-consider/</guid>
+      <description>With brands from Twitter to the Washington Post and Lancôme (more on that later) embracing the possibilities of PWAs, the question is no longer &amp;ldquo;Should you have a PWA?&amp;rdquo; but &amp;ldquo;What are the implications for my business?&amp;rdquo;
+So, before deciding to build a PWA, let&amp;rsquo;s take a look at some key points you need to consider, both from a design and resources point of view and from a strategic marketing point of view.</description>
+    </item>
+    
+    <item>
+      <title>6 Reasons to Join the Progressive Web App Revolution</title>
+      <link>https://www.shmyrev.com/article/6-reasons-to-join-the-progressive-web-app-revolution/</link>
+      <pubDate>Mon, 16 Oct 2017 08:26:20 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/6-reasons-to-join-the-progressive-web-app-revolution/</guid>
+      <description>You can’t be found if you can’t be seen Having an effective native app is an essential, and we aren’t arguing that. But have you been on the app store lately? Smartphone users are paralysed for choice when it comes to choosing apps and games to download to their device because there are just so many. And it’s really hard to cut through that noise and reach users, even those who are pretty much ready and waiting for whatever it is you have to offer!</description>
+    </item>
+    
+    <item>
+      <title>4 Reasons People Like Progressive Web Apps</title>
+      <link>https://www.shmyrev.com/article/4-reasons-people-like-progressive-web-apps/</link>
+      <pubDate>Mon, 16 Oct 2017 08:23:29 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/4-reasons-people-like-progressive-web-apps/</guid>
+      <description>People are impatient The first reason, and probably the most important, is that modern society doesn’t have a lot of time to hang around. We all seem a little more impatient than we used to be! It’s probably because we’re so used to being able to access whatever we want, whenever we want, be it entertainment, food or leisure activities (see: Tinder). That’s why we’ve seen such an explosion in smartphone use, and that’s no bad thing.</description>
+    </item>
+    
+    <item>
+      <title>Is Progressive the New Responsive?</title>
+      <link>https://www.shmyrev.com/article/is-progressive-the-new-responsive/</link>
+      <pubDate>Mon, 16 Oct 2017 08:08:39 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/is-progressive-the-new-responsive/</guid>
+      <description>Having a functional, easy to use website that can be accessed via the conventional desktop is never going to go away, yet when it comes to mobile, the tide is turning away from the once loved responsive world to the new highly engaging and fascinating world of Progressive Web Apps.
+Responsive design wasn’t always a thing When the world was first introduced with the 3G internet connection, it gave consumers a taste of what it could be like to access the internet, shop online and digest information no matter the time or place, so long as you had access to a mobile you could get online and it wasn’t exactly slow.</description>
+    </item>
+    
+    <item>
+      <title>5 Advantages to Using SVGs</title>
+      <link>https://www.shmyrev.com/article/5-advantages-to-using-svgs/</link>
+      <pubDate>Sun, 15 Oct 2017 13:56:53 +0000</pubDate>
+      
+      <guid>https://www.shmyrev.com/article/5-advantages-to-using-svgs/</guid>
+      <description>There are two major types of two-dimensional digital graphics used – raster and vector. Raster images, or bitmaps, are composed of a fixed set of tiny dots or pixels. Some of the basic file types include JPG, GIF and PNG. SVGs are vector images which are composed of mathematical equations where lines and curves (or paths) make up graphic shapes, images, and text in XML format. Although SVGs have been around a long time and offer several advantages, they are still an underutilized format in design.</description>
+    </item>
+    
+    <item>
       <title>Static Websites &#43; JAMstack = &lt;3</title>
       <link>https://www.shmyrev.com/article/static-websites-and-jamstack/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.shmyrev.com/article/static-websites-and-jamstack/</guid>
       <description>I&amp;rsquo;m sure that by now you&amp;rsquo;ve heard about how static websites are the best thing since sliced bread. If you&amp;rsquo;re the type to stay on top of the latest, then you&amp;rsquo;ve also heard about Smashing Magazine ditching WordPress and moving to a JAMstack (probably how you ended up here).
