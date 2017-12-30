@@ -10,6 +10,7 @@
         <div class="bf-content-v2">
           <time class="bf-date-v2"><span>{{ .Date.Format "Jan 2" }} <br> <b>{{ .Date.Format "2006" }}</b> </span></time>
           <h2 class="bf-title-v2"> {{ .Title }} </h2>
+          {{ with .Page.Params.featured_image }}<img src="{{ . }}">{{ end }}
           <p class="bf-excerpt-v2"> {{ .Description }}</p>
         </div>
       </a>
