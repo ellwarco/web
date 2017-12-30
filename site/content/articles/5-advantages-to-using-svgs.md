@@ -15,7 +15,7 @@ There are two major types of two-dimensional digital graphics used – raster an
 SVG is an open standard developed by the World Wide Web Consortium (W3C). According to the W3C, even in the early days of the web, it was apparent that a vector graphic format would be useful. Although it was influenced by ideas and specifications from submissions from several top companies, The W3C basically designed SVG from the ground up. They offer several advantages over raster images, including:
 
 1. **Scalability** – Vector images are resolution-independent and can scale to any dimension without losing quality. Browsers just recalculate the math behind the image so there is no distortion. Raster images on the other hand lose their resolution when enlarged because their small pixels are forced to expand beyond their original size.
-![undefined](/img/svgbitmap-768x576.jpeg)
+
 1. **Interactivity** – Hyperlinks and virtually any kind of [animation] (https://svgwg.org/specs/animations/#AnimationElements) can be added via styling and scripting.
 
 2. **Easily editable** – Editing an SVG is as easy as changing the coordinates or a word in a text editor or coding the SVG onto your webpage and altering it with JavaScript or CSS. You can also use [popular vector graphics editing software] (https://www.g2crowd.com/categories/vector-graphics) such as Adobe Illustrator, Corel Draw, and Sketch.
